@@ -17,4 +17,4 @@ Aprender a:
 5. Crea un Pull Request
 
 ## Participantes
-- Aguilera Justiniano Caleb
+- Alvaro Gilbert Quiroga Cardozo 
