@@ -17,4 +17,4 @@ Aprender a:
 5. Crea un Pull Request
 
 ## Participantes
-julio cesar
+luis santiago rivero p.
